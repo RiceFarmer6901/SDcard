@@ -1,0 +1,12 @@
+../Core/Src/main.c:86:6:myprintf	16	static
+../Core/Src/main.c:99:6:writeCSV	24	static
+../Core/Src/main.c:111:6:StartRecording	856	static
+../Core/Src/main.c:161:6:StopRecording	8	static
+../Core/Src/main.c:171:6:LogMeasurement	1128	static
+../Core/Src/main.c:253:6:readMeasurment	1088	static
+../Core/Src/main.c:303:5:main	1160	static
+../Core/Src/main.c:508:6:SystemClock_Config	96	static
+../Core/Src/main.c:559:13:MX_SPI3_Init	8	static
+../Core/Src/main.c:599:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:634:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:691:6:Error_Handler	4	static,ignoring_inline_asm
